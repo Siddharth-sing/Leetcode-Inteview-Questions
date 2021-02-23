@@ -2,7 +2,7 @@
 /* Do login into leetcode before opening the link below */
 /* https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/ */
 
-/* Basic Approach : First take transpose of the matrix than take image the obtained matrix. */
+/* Basic Approach : First take transpose of the matrix than take image of the obtained matrix. */
 class Solution 
 {
 public:
